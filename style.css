@@ -11,3 +11,7 @@
   font-weight: bold;
   color: #606c38;
 }
+
+.italic {
+  font-style: italic;
+}
